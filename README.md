@@ -98,16 +98,6 @@ NLP/
 
 ---
 
-## 🙋‍♂️ Author
-
-**Punit Parmar**  
-Final Year Computer Engineering Student  
-📍 India  
-🔗 [LinkedIn](https://www.linkedin.com/in/punitparmar231/)  
-🔗 [GitHub](https://github.com/Punit231)
-
----
-
 ## ⭐️ Contributions & Feedback
 
 Pull requests are welcome. For major changes, please open an issue first.  
@@ -115,9 +105,13 @@ Feel free to fork and use in your own learning journey!
 
 ---
 
-## 📜 License
+## 🙋‍♂️ Author
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+**Punit Parmar**  
+Final Year Computer Engineering Student  
+📍 India  
+🔗 [LinkedIn](https://www.linkedin.com/in/punitparmar231/)  
+🔗 [GitHub](https://github.com/Punit231)
 
 ---
 
